@@ -1,0 +1,19 @@
+{
+  "name": "nyt_webdriverio",
+  "version": "1.0.0",
+  "description": "This repo is a demo of automation test using webdeiverIO as a framework on nyt RealEstate page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3Z3QU13L5/nyt_webdriverIO.git"
+  },
+  "author": "Miguel Solano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3Z3QU13L5/nyt_webdriverIO/issues"
+  },
+  "homepage": "https://github.com/3Z3QU13L5/nyt_webdriverIO#readme"
+}
